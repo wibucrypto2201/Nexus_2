@@ -2,7 +2,7 @@
 
 echo -e "\e[1;34m"  # Màu xanh dương + in đậm
 echo "------------------------------------------------------"
-echo " 🚀 Welcome to \e[1;34mWIBUCRYPTO\e[0m 🔗"
+echo " 🚀 Welcome to WIBUCRYPTO 🚀 "
 echo "------------------------------------------------------"
 echo -e "\e[0m"  # Reset màu
 sleep 3  # Chờ 3 giây để người dùng thấy logo
